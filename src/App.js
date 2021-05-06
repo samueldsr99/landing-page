@@ -28,7 +28,7 @@ const Home = React.forwardRef((props, ref) => {
     <>
       <MainBody
         gradient={mainBody.gradientColors}
-        title={`${mainBody.firstName} ${mainBody.middleName} ${mainBody.lastName}`}
+        title={`${mainBody.middleName} ${mainBody.lastName}`}
         message={mainBody.message}
         icons={mainBody.icons}
         ref={ref}
