@@ -114,6 +114,8 @@ const skills = {
     { name: "django-rest-framework", value: 70 },
     { name: "C#: dotnet", value: 64 },
     { name: "C / C++", value: 34 },
+    { name: "MySQL", value: 40 },
+    { name: "MongoDB", value: 60 },
   ],
   softSkills: [
     { name: "Git / Github", value: 80 },
