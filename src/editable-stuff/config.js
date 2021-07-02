@@ -41,7 +41,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Samuel David Suárez Rodríguez. I'm a Computer Scientist from Universidad de la Habana. I'm most passionate about Software Development & I love Machine Learning and how is changing the world for better. In my spare time I usually work on open source projects, listen to music and hang out with my family and friends.",
-  resume: "https://drive.google.com/file/d/10yMWsN5aOZvkw-IjOcbTnphtysV5OpV4/view",
+  resume: "https://drive.google.com/file/d/1nB0CPEJVzyfjzm-2Sdx_fs-wZaZlIvNt/view?usp=sharing",
 };
 
 // PROJECTS SECTION
