@@ -41,7 +41,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Samuel David Suárez Rodríguez. I'm a Computer Scientist from Universidad de la Habana. I'm most passionate about Software Development & I love Machine Learning and how is changing the world for better. In my spare time I usually work on open source projects, listen to music and hang out with my family and friends.",
-  resume: "https://drive.google.com/file/d/1nB0CPEJVzyfjzm-2Sdx_fs-wZaZlIvNt/view,
+  resume: "https://drive.google.com/file/d/1nB0CPEJVzyfjzm-2Sdx_fs-wZaZlIvNt/view?usp=drivesdk",
 };
 
 // PROJECTS SECTION
@@ -90,7 +90,6 @@ const skills = {
     { name: "Typescript", value: 90 },
     { name: "Javascript", value: 90 },
     { name: "HTML / CSS / SCSS", value: 70 },
-    { name: "JavaScript", value: 90 },
     { name: "Node", value: 65 },
     { name: "React", value: 75 },
     { name: "Express", value: 50 },
@@ -107,9 +106,6 @@ const skills = {
     { name: "Git / Github", value: 80 },
     { name: "Scrum (Certificated)", value: 90 },
     { name: "Data Structures & Algorithms", value: 85 },
-    { name: "MVC Pattern", value: 100 },
-    { name: "MVVM Pattern", value: 100 },
-    { name: "Mediator Pattern", value: 100 },
   ],
 };
 
